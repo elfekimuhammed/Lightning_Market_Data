@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-10-05T22:04:46Z",
+  "files": {
+    "health.json": {
+      "bytes": 304,
+      "sha256": "d5514a2dd198afc55f5d74f3cdeffcdb03bd1a86d757cf7cb3e2ee115cc69806"
+    },
+    "instruments.csv": {
+      "bytes": 108,
+      "rows": 0,
+      "sha256": "1f07a0507b8e39051f2820cd9f92166fe0bb95602a79681c545e2a1383bd10e7"
+    }
+  },
+  "pack": "fx",
+  "schema": 1,
+  "source": "Central Bank of Egypt (cbe.org.eg)"
+}
