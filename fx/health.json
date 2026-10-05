@@ -1,13 +1,13 @@
 {
   "_run": {
-    "created_at": "2026-10-05T22:04:46Z",
+    "created_at": "2026-10-05T22:05:32Z",
     "problem_count": 0,
     "problems": []
   },
   "cbe": {
-    "checked_at": "2026-10-05T22:04:46Z",
+    "checked_at": "2026-10-05T22:05:32Z",
     "error": "CBE's rates page had no US dollar row; its layout may have changed",
-    "failures_in_a_row": 1,
+    "failures_in_a_row": 2,
     "ok": false,
     "rows": 0
   }

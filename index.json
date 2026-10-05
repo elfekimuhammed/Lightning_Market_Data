@@ -1,10 +1,10 @@
 {
-  "created_at": "2026-10-05T22:04:46Z",
+  "created_at": "2026-10-05T22:05:32Z",
   "packs": {
     "fx": {
       "bytes": 412,
       "covers": "The Central Bank of Egypt's official rates, in pounds",
-      "created_at": "2026-10-05T22:04:46Z",
+      "created_at": "2026-10-05T22:05:32Z",
       "instruments": 0,
       "last_date": "",
       "name": "Exchange rates",
