@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-07T17:19:22Z",
+  "created_at": "2026-10-07T17:22:59Z",
   "files": {
     "daily/2026-10.csv": {
       "bytes": 383,
@@ -9,8 +9,8 @@
       "sha256": "e605b3a06491db8c6ff6eae2fc6942241dc6eae68412b374f9be1044ce88d2db"
     },
     "health.json": {
-      "bytes": 485,
-      "sha256": "f269b6a6e9e542bb75369dbe785ff8e08d5a025a34beaca6d931f9553b01b7c1"
+      "bytes": 285,
+      "sha256": "d72298d58254733197edf9934c44539905a78af7115dad11ee442594359e3d33"
     },
     "instruments.csv": {
       "bytes": 1264,
