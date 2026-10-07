@@ -1,17 +1,31 @@
 {
-  "created_at": "2026-10-07T16:45:21Z",
+  "created_at": "2026-10-07T17:19:22Z",
   "files": {
+    "daily/2026-10.csv": {
+      "bytes": 383,
+      "first_date": "2026-10-07",
+      "last_date": "2026-10-07",
+      "rows": 13,
+      "sha256": "e605b3a06491db8c6ff6eae2fc6942241dc6eae68412b374f9be1044ce88d2db"
+    },
     "health.json": {
-      "bytes": 304,
-      "sha256": "c939bc7ed9781566575544db43572fb87120c376eea614bc7f755bd3581ca7b2"
+      "bytes": 485,
+      "sha256": "f269b6a6e9e542bb75369dbe785ff8e08d5a025a34beaca6d931f9553b01b7c1"
     },
     "instruments.csv": {
-      "bytes": 108,
-      "rows": 0,
-      "sha256": "1f07a0507b8e39051f2820cd9f92166fe0bb95602a79681c545e2a1383bd10e7"
+      "bytes": 1264,
+      "rows": 13,
+      "sha256": "cb796037f1c2b6fd8ecca2f01f13b8a18be8e282b12486016289e20fb2f832cb"
+    },
+    "monthly/2026.csv": {
+      "bytes": 383,
+      "first_date": "2026-10-07",
+      "last_date": "2026-10-07",
+      "rows": 13,
+      "sha256": "e605b3a06491db8c6ff6eae2fc6942241dc6eae68412b374f9be1044ce88d2db"
     }
   },
   "pack": "fx",
   "schema": 1,
-  "source": "Central Bank of Egypt (cbe.org.eg)"
+  "source": "Banque Misr (banquemisr.com; transfer buy/sell midpoint)"
 }

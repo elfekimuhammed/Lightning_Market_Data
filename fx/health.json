@@ -1,8 +1,16 @@
 {
   "_run": {
-    "created_at": "2026-10-07T16:45:21Z",
+    "created_at": "2026-10-07T17:19:22Z",
     "problem_count": 0,
     "problems": []
+  },
+  "banque-misr": {
+    "checked_at": "2026-10-07T17:19:22Z",
+    "error": "",
+    "failures_in_a_row": 0,
+    "last_ok": "2026-10-07T17:19:22Z",
+    "ok": true,
+    "rows": 13
   },
   "cbe": {
     "checked_at": "2026-10-07T16:45:21Z",

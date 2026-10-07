@@ -1,1 +1,14 @@
 key,isin,mic,ticker,name,name_ar,category,country,currency,unit,aliases,sources,status,first_date,last_date
+AED/EGP,,,,UAE dirham,,CURRENCY,,EGP,AED,,banque-misr=AED,active,2026-10-07,2026-10-07
+AUD/EGP,,,,Australian dollar,,CURRENCY,,EGP,AUD,,banque-misr=AUD,active,2026-10-07,2026-10-07
+CAD/EGP,,,,Canadian dollar,,CURRENCY,,EGP,CAD,,banque-misr=CAD,active,2026-10-07,2026-10-07
+CHF/EGP,,,,Swiss franc,,CURRENCY,,EGP,CHF,,banque-misr=CHF,active,2026-10-07,2026-10-07
+CNY/EGP,,,,Chinese yuan,,CURRENCY,,EGP,CNY,,banque-misr=CNY,active,2026-10-07,2026-10-07
+DKK/EGP,,,,Danish krone,,CURRENCY,,EGP,DKK,,banque-misr=DKK,active,2026-10-07,2026-10-07
+EUR/EGP,,,,Euro,,CURRENCY,,EGP,EUR,,banque-misr=EUR,active,2026-10-07,2026-10-07
+GBP/EGP,,,,Pound sterling,,CURRENCY,,EGP,GBP,,banque-misr=GBP,active,2026-10-07,2026-10-07
+JOD/EGP,,,,Jordanian dinar,,CURRENCY,,EGP,JOD,,banque-misr=JOD,active,2026-10-07,2026-10-07
+QAR/EGP,,,,Qatari riyal,,CURRENCY,,EGP,QAR,,banque-misr=QAR,active,2026-10-07,2026-10-07
+SAR/EGP,,,,Saudi riyal,,CURRENCY,,EGP,SAR,,banque-misr=SAR,active,2026-10-07,2026-10-07
+SEK/EGP,,,,Swedish krona,,CURRENCY,,EGP,SEK,,banque-misr=SEK,active,2026-10-07,2026-10-07
+USD/EGP,,,,US dollar,,CURRENCY,,EGP,USD,,banque-misr=USD,active,2026-10-07,2026-10-07
