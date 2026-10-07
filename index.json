@@ -1,10 +1,10 @@
 {
-  "created_at": "2026-10-07T17:22:59Z",
+  "created_at": "2026-10-07T19:28:01Z",
   "packs": {
     "fx": {
       "bytes": 2315,
       "covers": "Banque Misr's transfer-rate midpoints, in pounds",
-      "created_at": "2026-10-07T17:22:59Z",
+      "created_at": "2026-10-07T19:28:01Z",
       "instruments": 13,
       "last_date": "2026-10-07",
       "name": "Exchange rates",
